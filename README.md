@@ -1,6 +1,6 @@
 ![‏‏4](https://user-images.githubusercontent.com/42889059/108994124-12611b00-76a4-11eb-8f19-550da3ac1416.JPG)
 
-<h1 align="center">Hi there 👋 I'm Shani!</h1>
+<h1 align="center">I'm Shani!</h1>
 <p align="center"><i>Full Stack Developer with a Front-End Soul</i></p>
 
 
