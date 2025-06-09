@@ -37,4 +37,5 @@ Outside of tech, I enjoy:
 
 
 ## 📫 Contact
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shanip27/))
+- 💼 [LinkedIn](https://linkedin.com/in/shanip27)
+
