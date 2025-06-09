@@ -25,7 +25,8 @@
 
 ## 🎧 Coding Vibes
 
-My favorite music artist while coding is [Dennis Lloyd](https://www.youtube.com/watch?v=ehiNCZSvGzk&list=PLdSSw3KzMjEb5cSHJeHP5zUCLDMzFo9UJ&ab_channel=DennisLloydVEVO) — his beats keep the flow going 🔥
+My favorite music artist while coding is [Dennis Lloyd](https://www.youtube.com/watch?v=ehiNCZSvGzk&list=PLdSSw3KzMjEb5cSHJeHP5zUCLDMzFo9UJ&ab_channel=DennisLloydVEVO) 
+— his beats keep the flow going
 
 
 ## 🌿 Beyond Code
